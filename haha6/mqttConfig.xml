@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<mqttConfig>
-    <broker>tcp://localhost:1883</broker>
-    <username>C0Hwv1IiFzPMrfMQBfAy</username>
-    <password></password>
-    <clientID>xixihaha</clientID>
-    <topic>v1/devices/me/telemetry</topic>
-    <qos>1</qos>
-</mqttConfig>
